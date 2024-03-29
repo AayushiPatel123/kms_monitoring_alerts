@@ -4,9 +4,6 @@ sns_subscription = {
     "aayushi" = {
         endpoint = "aayushipatel1916@gmail.com"
     },
-    "manish" =  {
-        endpoint = "alvinmanish234@gmail.com"
-    },
 }
 event_patterns = {
     "kms_key" =  {
