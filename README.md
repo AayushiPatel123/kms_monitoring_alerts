@@ -1,6 +1,6 @@
 <!-- BEGIN_TF_DOCS -->
 ## Architectural Diagram
-![Diagram](https://https://github.com/AayushiPatel123/kms_monitoring_alerts/main/Images/Architecture_Diagram.jpg "Diagram")
+![Diagram](https://github.com/AayushiPatel123/kms_monitoring_alerts/main/Images/Architecture_Diagram.jpg "Diagram")
 
 
 
