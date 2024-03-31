@@ -2,7 +2,7 @@ event_name  = "kms_monitoring"
 display_name = "kms_monitoring"
 sns_subscription = {
     "aayushi" = {
-        endpoint = "aayushipatel1916@gmail.com"
+        endpoint = "aayushipatel1919@gmail.com"
     },
 }
 event_patterns = {
